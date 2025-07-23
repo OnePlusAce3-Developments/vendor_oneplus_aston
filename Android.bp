@@ -1,0 +1,9 @@
+//
+// Automatically generated file. DO NOT MODIFY
+//
+
+soong_namespace {
+    imports: [
+        "vendor/oneplus/sm8550-common",
+    ],
+}
