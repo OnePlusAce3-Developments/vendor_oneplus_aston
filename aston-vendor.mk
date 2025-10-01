@@ -1199,7 +1199,6 @@ PRODUCT_PACKAGES += \
     libmmcamera_mfnr \
     libmmcamera_mfnr_t4 \
     libmmcamera_pdpc \
-    libnanopb \
     libopencv \
     libopencv3a \
     libopestriping \
